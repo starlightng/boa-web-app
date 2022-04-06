@@ -94,7 +94,7 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>nexus-releasess</id>
+	      <id>nexus-releases</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://44.201.177.42:8081/repository/boa-releases/</url>
 	    </repository>
