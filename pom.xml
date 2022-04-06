@@ -94,13 +94,13 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>releases</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://44.201.177.42:8081/repository/boa-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>snapshots</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://44.201.177.42:8081/repository/boa-snapshot/</url>
 	    </snapshotRepository>
