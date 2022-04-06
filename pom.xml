@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>boa-web-app</artifactId>
 	<packaging>war</packaging>
-	<version>1.0-RELEASE</version>
+	<version>-SNAPSHOT</version>
 	
 	<name>boa-web-app</name>
 
