@@ -104,7 +104,6 @@
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://44.201.177.42:8081/repository/boa-snapshot/</url>
 	    </snapshotRepository>
-	    
 	</distributionManagement>
 	
 	<build>
