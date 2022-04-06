@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>boa-web-app</artifactId>
+	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>RELEASE</version>
 	
@@ -94,13 +94,13 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>nexus-releases</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://44.201.177.42:8081/repository/boa-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus-snapshots</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://44.201.177.42:8081/repository/boa-snapshot/</url>
 	    </snapshotRepository>
