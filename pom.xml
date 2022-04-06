@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>boa-web-app</artifactId>
 	<packaging>war</packaging>
-	<version>3.0.1-SNAPSHOT</version>
+	<version>4.0.1-SNAPSHOT</version>
 	
 	<name>boa-web-app</name>
 
@@ -128,7 +128,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/maven-web-application</contextPath>
+						<contextPath>/boa-web-app</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
