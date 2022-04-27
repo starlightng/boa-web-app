@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>hhttp://34.234.88.25:8081/repository/CI-Pipe-Repo/</url>
+	      <url>http://34.234.88.25:8081/repository/CI-Pipe-Repo/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
