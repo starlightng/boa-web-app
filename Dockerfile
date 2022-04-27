@@ -1,2 +1,2 @@
 FROM tomcat:8.0.20-jre8
-COPY --from=build target/web-app.war /usr/local/tomcat/webapps/web-app.war
+COPY target/web-app.war /usr/local/tomcat/webapps/web-app.war
